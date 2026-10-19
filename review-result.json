@@ -1,0 +1,101 @@
+{
+  "complete": true,
+  "units_reviewed": 64,
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "R1",
+      "units": [
+        "art_49"
+      ],
+      "finding": "Verbliebener Zupachtverweis konnte als aktuelle materielle Genehmigungspflicht gelesen werden.",
+      "correction": "Aufhebung Art. 33–35 und bloss verfahrensrechtliche Funktion ausdrücklich eingeordnet.",
+      "resolved": true
+    },
+    {
+      "id": "R2",
+      "units": [
+        "art_15",
+        "art_21_a",
+        "art_27"
+      ],
+      "finding": "Begriffsabgrenzung zwischen Selbstbewirtschaftung und zulässigem Personaleinsatz war nicht ausdrücklich verknüpft.",
+      "correction": "BGE-Verknüpfung und Abgrenzung in Art. 15/21a und Modellfall ergänzt.",
+      "resolved": true
+    },
+    {
+      "id": "R3",
+      "units": [
+        "art_31"
+      ],
+      "finding": "Die unterschiedlichen Übernahmevarianten in Abs. 2bis Bst. c waren zu stark zusammengefasst.",
+      "correction": "Selbstbewirtschaftung und Übernahme zur Verpachtung als Ganzes erläutert.",
+      "resolved": true
+    },
+    {
+      "id": "R4",
+      "units": [
+        "art_38"
+      ],
+      "finding": "Historischer Gesetzesverweis wurde im Kommentar nicht eingeordnet.",
+      "correction": "Amtliche Fussnote 44 und deren Hinweis auf Art. 10 BGBB erläutert.",
+      "resolved": true
+    },
+    {
+      "id": "R5",
+      "units": [
+        "art_60_b",
+        "art_61"
+      ],
+      "finding": "Beispiel liess Übergangsstichtag gegenüber Änderungsgesetzdatum unklar; unpräziser Begriff Ausfertigung.",
+      "correction": "1. September 2008 als Inkrafttretensstichtag und Gesetzesdatum als Begriff eingesetzt.",
+      "resolved": true
+    },
+    {
+      "id": "R6",
+      "units": [],
+      "finding": "Acht Ingress-/Gliederungsfussnoten nur im Roh-HTML, nicht im lesbaren Buch.",
+      "correction": "Parser erweitert; amtlicher Ingress und acht Noten separat sowie alle 60 Noten mit IDs inventarisiert.",
+      "resolved": true
+    },
+    {
+      "id": "R7",
+      "units": [
+        "art_3",
+        "art_6"
+      ],
+      "finding": "Geltungsbereichscheckliste im falschen Kapitel.",
+      "correction": "Von Art. 6 nach Art. 3 verschoben; Kapitelendprüfung ergänzt.",
+      "resolved": true
+    },
+    {
+      "id": "R8",
+      "units": [],
+      "finding": "Quellenkarte enthielt sachfremden ArG-Hinweis.",
+      "correction": "Hinweis aus Quellenkarte und Erzeugungshilfe entfernt.",
+      "resolved": true
+    },
+    {
+      "id": "R9",
+      "units": [
+        "art_15",
+        "art_27",
+        "art_60"
+      ],
+      "finding": "Fallkarten konnten konkrete Sachverhalts- und Aussagegrenzen genauer ausweisen.",
+      "correction": "Beide vollständigen publizierten Auszüge erneut gelesen; Kontext, Parteivorbringen, nicht entschiedene Fragen und Cachebelege ergänzt.",
+      "resolved": true
+    }
+  ],
+  "limitations": [
+    "Keine externe berufliche oder wissenschaftliche Freigabe; weiterhin ein Kommentierungsentwurf.",
+    "Selektive Rechtsprechung: zwei amtliche publizierte BGE-Auszüge, keine vollständigen unpublizierten Ausgangsurteile und keine umfassende spätere Rechtsprechungsrecherche.",
+    "Keine neue systematische Recherche im lokalen nationalen Justizkorpus; bestehende Autoritätsbehauptungen vollständig im ausgewiesenen Umfang geprüft.",
+    "Kantonales Recht, Ausführungswerte und sämtliche historische Zwischenfassungen nicht vollständig kommentiert; konkrete Anwendung erfordert die im Text benannten Zusatzprüfungen."
+  ],
+  "reviewed_at": "2026-10-19T13:15:56.402247+00:00",
+  "review_report": "REVIEW.md",
+  "unit_audit": "review-unit-audit.json",
+  "source_receipts": "sources/review-retrieval.json",
+  "review_mode": "Gesonderter zweiter Prozess; keine externe professionelle Genehmigung."
+}

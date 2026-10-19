@@ -18,6 +18,22 @@ for u in units:
  text=html.unescape(re.sub(r'<[^>]+>','',frag));norm=lambda x:re.sub(r'\s+','',x)
  if norm(text)!=norm(u['text']):failed.append(u['id'])
 assert not failed,failed
+notes=json.loads((w/'sources/footnotes.json').read_text())
+expected_note_ids=re.findall(r'<p\b[^>]*\bid="(fn-[^"]+)"',raw)
+assert [x['id'] for x in notes]==expected_note_ids
+assert len(notes)==60 and len(set(expected_note_ids))==60
+assert cov['footnotes']['expected_ids']==cov['footnotes']['extracted_ids']==expected_note_ids
+outside=[x for x in notes if not x['owner_id'].startswith('art_')]
+assert len(outside)==8
+for note in notes:
+ if note['owner_id'].startswith('art_'):
+  unit=next(u for u in units if u['id']==note['owner_id'])
+  assert any(note['text'] in n for n in unit['notes']),note['id']
+ else:assert note['text'] in (w/'AMTLICHE-STRUKTUR.md').read_text(),note['id']
+for chapter in meta['chapters']:
+ members=[u for u in units if u['chapter']==chapter['n']]
+ assert '**Praxischeck zum Kapitel:**' in com[members[-1]['id']]
+ assert all('**Praxischeck zum Kapitel:**' not in com[u['id']] for u in members[:-1])
 assert all(len(com[u['id']])>=(120 if len(u['text'])<160 else 400) for u in units)
 assert all(len(com[u['id']])>=700 for u in units if not u['repealed'] and not u.get('empty_slot'))
 seen={};duplicates=[]
@@ -37,5 +53,5 @@ for p in repo.glob('*.md'):
 assert not bad,bad
 assert (repo/'LICENSE').read_bytes()==Path('/Volumes/LaCie/open-commentary/_tools/LICENSE').read_bytes()
 assert all(p.read_bytes()==(repo/'sources'/p.name).read_bytes() for p in (w/'sources').iterdir() if p.is_file())
-report=dict(ok=True,statutory_units=len(units),expected_ids_independent=True,parsed_ids_match=True,annex_disposition=cov['annex_disposition'],raw_character_sequence_all_units=True,chapter_commentary_match=True,all_ordinary_comments_700_plus=True,no_repeated_long_paragraphs=True,local_links_ok=True,source_copies_exact=True,license_exact=True,commentary_chars=sum(map(len,com.values())),technical_check_not_substantive_review=True)
+report=dict(ok=True,statutory_units=len(units),expected_ids_independent=True,parsed_ids_match=True,annex_disposition=cov['annex_disposition'],raw_character_sequence_all_units=True,footnotes_complete=True,footnote_count=len(notes),non_article_footnotes_preserved=len(outside),chapter_end_checklists_correct=True,chapter_commentary_match=True,all_ordinary_comments_700_plus=True,no_repeated_long_paragraphs=True,local_links_ok=True,source_copies_exact=True,license_exact=True,commentary_chars=sum(map(len,com.values())),technical_check_not_substantive_review=True)
 print(json.dumps(report,ensure_ascii=False))

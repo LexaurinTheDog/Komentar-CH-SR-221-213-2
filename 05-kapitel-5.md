@@ -40,6 +40,8 @@ Ein schutzwürdiges Interesse eröffnet eine verbindliche verwaltungsbehördlich
 
 Beispiel: Ein Eigentümer möchte Flächen aus einem Gewerbe zur Pacht anbieten, weiss aber nicht, ob die geplante Struktur bewilligungsfähig ist. Eine frühzeitige Feststellung kann unnötige Bindungen und Schäden aus späterer Verweigerung vermeiden. Sie muss auf einen hinreichend bestimmten Sachverhalt gestützt sein; veränderte Vertragsgegenstände oder Bedingungen dürfen nicht ungeprüft als von einer früheren Feststellung gedeckt gelten. Die einzelnen materiellen Voraussetzungen nach Art. 7, 30 ff. und 36 ff. bleiben zu prüfen. Ebenso ist eine Feststellung zur Genehmigungsfähigkeit von der tatsächlich nötigen Bewilligung und deren Vollzug zu unterscheiden. Schutzwürdiges Interesse, geplante Vertragsfassung und gewünschter Entscheidinhalt sollten im Gesuch präzise bezeichnet sein.
 
+Besonders ist der im Wortlaut verbliebene Ausdruck „Zupacht“ einzuordnen: Die früheren Art. 33–35 sind seit 1. September 2008 aufgehoben. Art. 49 begründet als Verfahrensnorm keine neue materielle Zupachtbewilligungspflicht. Ein Antrag muss sich deshalb auf eine noch bestehende materielle Regelung beziehen, etwa auf eine tatsächlich bewilligungspflichtige parzellenweise Verpachtung oder eine Pachtzinsfrage. Der überlieferte Verweis allein rechtfertigt weder eine Beschränkung noch die Wiederanwendung der aufgehobenen Bestimmungen.
+
 ### Art. 50 — Beschwerde an die kantonale Beschwerdeinstanz
 
 **Wortlaut der Vorschrift:**

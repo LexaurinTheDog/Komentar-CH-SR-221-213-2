@@ -1,0 +1,58 @@
+[
+  {
+    "kind": "official_html",
+    "url": "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/926_926_926/20140101/de/html/fedlex-data-admin-ch-eli-cc-1986-926_926_926-20140101-de-html-14.html",
+    "http_status": 200,
+    "content_type": "text/html",
+    "retrieved_at": "2026-10-19T13:09:32.614098+00:00",
+    "sha256": "97ef3602b5e93c54edeee3b03d6e8dee812074566a36c7c90a8c9797ce835339",
+    "local_path": "sources/review-official.html",
+    "same_body_as_first_pass": true
+  },
+  {
+    "kind": "version_inventory",
+    "url": "https://fedlex.data.admin.ch/sparqlendpoint?query=SELECT+%3Fs+%3Fp+WHERE+%7B+%3Fs+%3Fp+%3Chttps%3A%2F%2Ffedlex.data.admin.ch%2Feli%2Fcc%2F1986%2F926_926_926%3E+%7D&format=json",
+    "http_status": 200,
+    "content_type": "application/sparql-results+json",
+    "retrieved_at": "2026-10-19T13:09:33.435750+00:00",
+    "sha256": "1bfa7c024465e4998b80142344a4f6bc4baa2d1301f30799086521e12a0cd89b",
+    "local_path": "sources/review-versions.json",
+    "same_body_as_first_pass": true
+  },
+  {
+    "kind": "version_metadata",
+    "url": "https://fedlex.data.admin.ch/sparqlendpoint?query=SELECT+%3Fp+%3Fo+WHERE+%7B+%3Chttps%3A%2F%2Ffedlex.data.admin.ch%2Feli%2Fcc%2F1986%2F926_926_926%2F20140101%3E+%3Fp+%3Fo+%7D&format=json",
+    "http_status": 200,
+    "content_type": "application/sparql-results+json",
+    "retrieved_at": "2026-10-19T13:09:33.742151+00:00",
+    "sha256": "dc1d600f4688c434ee9b4e49870141842a4279491a41aa0f29a3b8a4746c874a",
+    "local_path": "sources/review-version-details.json",
+    "same_body_as_first_pass": true
+  },
+  {
+    "kind": "case_law_firecrawl",
+    "url": "https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F113-II-447%3Ade&lang=de&print=yes&type=show_document",
+    "http_status": 200,
+    "content_type": "text/html;charset=ISO-8859-1",
+    "received_at": "2026-10-19T13:09:52+00:00",
+    "cache_state": "hit",
+    "cached_at": "2026-10-19T12:55:55.446Z",
+    "local_path": "sources/review-bge-113-ii-447.json",
+    "sha256": "1e79b4a7074adedc83e0b86fc1456c5f9ab974416036a9a224aa3af3b49ec624",
+    "raw_html_sha256": "95cffa95c652eb9cb52f3e8c3f172e2e2eefcf9a52490fa1f56c74d217c150ec",
+    "validated_full_published_excerpt": true
+  },
+  {
+    "kind": "case_law_firecrawl",
+    "url": "https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=BGE-115-II-181&lang=de&type=show_document",
+    "http_status": 200,
+    "content_type": "text/html;charset=ISO-8859-1",
+    "received_at": "2026-10-19T13:09:53+00:00",
+    "cache_state": "hit",
+    "cached_at": "2026-10-19T13:02:37.788Z",
+    "local_path": "sources/review-bge-115-ii-181.json",
+    "sha256": "ae233df3737f55cbd0347c77446867869d9f076c0e59df850683b3b37f15ce44",
+    "raw_html_sha256": "56f6e04f2a39ec5327fa32ed11ba03fba6d8c98ce6e3b7dfa4d90ca5b86f4563",
+    "validated_full_published_excerpt": true
+  }
+]

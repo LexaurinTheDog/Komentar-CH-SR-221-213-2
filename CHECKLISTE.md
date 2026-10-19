@@ -104,5 +104,5 @@ Praxischeck am Kapitelende im Kommentarkapitel.
 - [x] Alle offiziellen IDs unabhängig inventarisiert.
 - [x] Keine eigenständige operative Anlage im amtlichen Text.
 - [x] Gruppierte Aufhebungen und Schlussbestimmungen erhalten.
-- [ ] Unabhängige Zweitdurchsicht.
+- [x] Unabhängige Zweitdurchsicht aller 64 Einheiten am 19. Oktober 2026; [Befunde und Grenzen](REVIEW.md).
 - [ ] Externe fachliche Begutachtung.

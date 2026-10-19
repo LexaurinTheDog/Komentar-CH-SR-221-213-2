@@ -1,0 +1,368 @@
+{
+  "review_date": "2026-10-19",
+  "scope": "Alle 64 Einheiten gegen amtlichen Wortlaut; beide zitierten BGE-Auszüge vollständig in publiziertem Umfang.",
+  "official_source_sha256": "97ef3602b5e93c54edeee3b03d6e8dee812074566a36c7c90a8c9797ce835339",
+  "units": [
+    {
+      "id": "art_1",
+      "check": "Gegenstandsgruppen, BGBB-Verweisung, Umgehungsschutz, Alpenzuordnung und OR-Ausnahmen getrennt geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_2",
+      "check": "Unter-Grenzwerte, Gebäudelosigkeit, kantonale Unterstellung und beide Zusammenrechnungsfälle geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_2_a",
+      "check": "Vollständige Bauzonenlage von Teilfläche und späterer Einzonung samt Dauerbestandsschutz abgegrenzt.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_3",
+      "check": "Kantonale Abweichungskompetenz auf Alpen/Weiden und Rechte beschränkt; Praxischeck ans tatsächliche Kapitelende versetzt.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_4",
+      "check": "Entgeltliche Nutzungsüberlassung, Naturalleistung und entfallener Absatz 2 getrennt erläutert.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_5",
+      "check": "Kein unmittelbares Bundesvorpachtrecht; Nachkommen, Gewerbe, Eignung, Selbstbewirtschaftung und Drittwirkung der Anmerkung geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_6",
+      "check": "Berglandwirte, Nachbarschaft und kantonale Ausgestaltung geprüft; falsch zugeordnete Geltungsbereichscheckliste entfernt.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_7",
+      "check": "Neun-/Sechsjahresminimum, Dreimonatsgesuch ab Antritt, Verkürzungsgründe und Rechtsfolge der Verspätung geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_8",
+      "check": "Unbefristete und stillschweigend fortgesetzte befristete Pacht unterschieden; Sechsjahresfortsetzung und Verkürzung geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_9",
+      "check": "Kantonale Spezialkulturdauer ohne erfundene feste Frist erläutert; Investitionsverweise geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_10",
+      "check": "Ansatzänderung, Verlangen, Folgepachtjahr und Bewilligungsausnahme nach Art. 42 Abs. 2 geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_11",
+      "check": "Dauernde Wertänderung und geänderte Schätzungsgrundlagen von vorübergehendem Ertragsausfall abgegrenzt.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_12",
+      "check": "Veränderte Verhältnisse und Unzumutbarkeit als Voraussetzungen der Anpassung anderer Vertragsbedingungen geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_13",
+      "check": "Ausserordentliche Ursache, beträchtlicher vorübergehender Rückgang, Dauer und angemessener Nachlass geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_14",
+      "check": "Eintritt des Erwerbers auch bei Betreibungs-/Konkursentzug und Ausnahmeverhältnis zu Art. 15 geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_15",
+      "check": "Erwerbszweck, Dreimonatsanzeige, Jahresfrist/Termin, 30-Tage-Klage, 6–24 Monate, Ersatz/Sicherheit und Zustimmung geprüft; BGE-Bezug ergänzt.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_16",
+      "check": "Schriftform, Begründung auf Verlangen, Jahresfrist, ortsüblicher Termin und begrenzte Teilkündigung geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_17",
+      "check": "Wichtige Gründe, Unzumutbarkeit, sechs Monate, Schriftform/Termin und richterliche Vermögensfolgen geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_18",
+      "check": "Tod ohne automatisches Ende, Kündigung, Eintritts-/Auflösungsklage und getrennte 30-Tage-Schritte geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_19",
+      "check": "Gemischter Eigen-/Pachtbetrieb, schriftliche Übernahmeerklärung und dreimonatige Reaktionsalternativen geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_20",
+      "check": "Wesentliche Bewirtschaftungsänderung bei den genannten Neuordnungen, Antrittstermin und Entschädigungsausschluss geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_21",
+      "check": "Rückstand, schriftliche Androhung, sechsmonatige Zahlungsgelegenheit und Verschuldensentlastung bei Schaden geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_21_a",
+      "check": "Sorgfalt/nachhaltiger Boden, eigene Verantwortung und erlaubte Hilfspersonen geprüft; Abgrenzung zu Art. 15/27 klargestellt.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_22",
+      "check": "Haupt-/Kleinreparatur, Anzeige, nützliche Frist, nicht bestrittene Verpflichtung und abweichende Lastenvereinbarung geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_22_a",
+      "check": "Zwei zustimmungspflichtige Änderungsgruppen, Schriftform und gesonderte schriftliche Rückbauabrede geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_22_b",
+      "check": "Buchstaben a–c, schriftliche Ermahnung/Aufforderung, Fortdauer/Abhilfefrist und Kündigungsform/-termin geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_23",
+      "check": "Bestehender Rückgabezustand, vereinbarungsdispositiver Verbesserungsausgleich, Pflegeverbesserung und vermeidbare Schäden geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_24",
+      "check": "Ungeerntete Früchte, Vorbehalt Vertrag/Ortsgebrauch und eigenständige Aufwandentschädigung geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_25",
+      "check": "Rücklasspflicht, ordentliche Bewirtschaftung im letzten Jahr und Vergleich mit empfangenem Anfangsbestand geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_25_b",
+      "check": "Gesicherte Jahrespachtzinse und Verweisungsumfang geprüft; kein privates Verkaufsrecht und kein erfundener Art. 25a.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_26",
+      "check": "Drei Monate ab Kündigungsempfang versus spätestens neun Monate vor Befristungsende; Sonderfrist Art. 15 geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_27",
+      "check": "Zumutbarkeit/Beweislast, Buchstaben a–e, Zinsentscheid als ausgeschlossener Grund und 3–6 Jahre geprüft; BGE-Aussage im Volltext kontrolliert.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_28",
+      "check": "Parteibegehren, Erstreckung und veränderte Verhältnisse als Anpassungsvoraussetzungen geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_29",
+      "check": "Kapitelbezogener Vorausverzicht, Nichtigkeit und ausdrückliche gesetzliche Ausnahmen geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_30",
+      "check": "Herausverpachtung aus Gewerbe und kumulative Zehn-Prozent-/Gebäudelosigkeitsausnahme geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_31",
+      "check": "Vor-Antritt-Bewilligung, Alternativen in Abs. 2 und verbleibende Strukturvoraussetzungen in Abs. 2bis geprüft; Übernahmevarianten präzisiert.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_32",
+      "check": "Behördliche Auflösung/Räumung, nächster zumutbarer Termin und ausgeschlossener Auflösungsschaden geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_3335",
+      "check": "Amtlich gruppierte Aufhebung 33–35 ohne operative Ersatztexte; Datum aus Fussnote geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_35_a",
+      "check": "Geld-/Teil-/Sachpacht, Ortsgebrauch und dispositive Nebenkostenregel mit Art. 36 abgeglichen.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_36",
+      "check": "Kontrollgrenze, Delegation, Naturalleistungen und verbundene Gegenstände samt Gesamtentgelt geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_37",
+      "check": "Ertragswertverzinsung und mittlere Verpächterlasten von Grundstückszuschlägen unterschieden.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_38",
+      "check": "Grundkomponenten, zwei betriebsbezogene Maximalzuschläge und Gebäudeausschluss geprüft; historischen Verweis anhand Fussnote 44 eingeordnet.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_39",
+      "check": "Überwiegend landwirtschaftliche Verbindung und begrenzter Verweis auf Missbrauchsregeln zur Zinsbemessung geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_40",
+      "check": "Mehrjahresmittel, nachhaltige Zinsänderung, mittlere Verpächterlasten und entfallener Absatz 2 geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_41",
+      "check": "Fortsetzung statt Erstpacht, mindestens drei Zusatzjahre und 15 Prozent für ganze Fortsetzungsdauer geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_42",
+      "check": "Gewerbebewilligung, drei Monate ab Antritt/Anpassung, Ansatzänderungsausnahme und Amtsverfahren geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_43",
+      "check": "Behördliche Einspracheberechtigung, Kenntnisfrist und absolute Zweijahresgrenze getrennt geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_44",
+      "check": "Zulässigkeitsentscheid/Herabsetzung und Eröffnung versus Mitteilung mit Art. 45/50 abgeglichen.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_45",
+      "check": "Teilnichtigkeit, relative/absolute Rückforderungszeitgrenze je Zahlung und Restvertragsgültigkeit geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_46",
+      "check": "Beidseitiger, abschnittsbezogener Vorausverzichtsschutz von nachträglichem Vergleich abgegrenzt.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_47",
+      "check": "Kantonales ergänzendes Verwaltungsverfahren und ZPO für Zivilklagen unterschieden.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_48",
+      "check": "Aufhebung seit 2011 aus amtlicher Fussnote geprüft; keine Wiederbelebung früheren Prozessrechts.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_49",
+      "check": "Schutzinteresse und Feststellung schon vor Vertrag geprüft; verbliebenen Zupachtverweis als nicht selbständig bewilligungsbegründend eingeordnet.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_50",
+      "check": "Verwaltungsbeschwerde in 30 Tagen und Eröffnung/Mitteilung geprüft; keine allgemeine Zivilrechtsmittelfrist behauptet.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_51",
+      "check": "Aufgehobener Rechtsmittelartikel seit 2007 anhand Anmerkung geprüft; kein fortgeltender alter Instanzenzug.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_52",
+      "check": "Drei Mitwirkungsformen und notwendiger Verfahrensbezug geprüft; keine grenzenlose Offenlegung abgeleitet.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_53",
+      "check": "Bewilligung, Einsprache und Beschwerde als unterschiedliche kantonal zu bezeichnende Funktionen geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_5457",
+      "check": "Gruppierte Aufhebung 54–57 ohne geltenden Inhalt geprüft; historische Sanktionen nicht ergänzt.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_58",
+      "check": "Kenntnisgabe statt Genehmigung, historischer Anpassungsauftrag und Bundesrechtswiderspruch von erlaubten Sonderregeln getrennt.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_59",
+      "check": "Ausgelassene Änderungsziffern als solche erhalten; explizite Aufhebung des Vorgängergesetzes und Teilinkraftsetzung geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_60",
+      "check": "Altpachten/Ausnahmen, Fortsetzung, Ersatzdatum 1973, Sonderklage und Entscheidrecht geprüft; BGE 113 II 447 in Sachverhalt/Erwägungen kontrolliert.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_60_a",
+      "check": "Änderungsbezogener Gewerbebestandsschutz und unbeachtliche Absicht der späteren Parzellenverpachtung im Erstreckungsfall geprüft.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_60_b",
+      "check": "Beide Bestandsschutzgruppen, bereits erfolgte Erstreckung und laufende Dauer geprüft; Stichtag auf 1. September 2008 präzisiert.",
+      "result": "checked_and_resolved"
+    },
+    {
+      "id": "art_61",
+      "check": "Referendum, Bundesratskompetenz und allgemeines/Teilinkrafttreten geprüft; Gesetzesdatum terminologisch klargestellt.",
+      "result": "checked_and_resolved"
+    }
+  ],
+  "repetition_check": {
+    "exact_long_paragraphs": "separater Validator",
+    "top_character_similarity_pairs": [
+      {
+        "ratio": 0.3574,
+        "ids": [
+          "art_28",
+          "art_41"
+        ]
+      },
+      {
+        "ratio": 0.3508,
+        "ids": [
+          "art_29",
+          "art_46"
+        ]
+      },
+      {
+        "ratio": 0.3347,
+        "ids": [
+          "art_15",
+          "art_27"
+        ]
+      },
+      {
+        "ratio": 0.3301,
+        "ids": [
+          "art_39",
+          "art_52"
+        ]
+      },
+      {
+        "ratio": 0.3291,
+        "ids": [
+          "art_23",
+          "art_35_a"
+        ]
+      }
+    ],
+    "interpretation": "Zusätzliche technische Suchhilfe; keine Schwellenwertfreigabe. Alle Texte inhaltlich gelesen."
+  }
+}

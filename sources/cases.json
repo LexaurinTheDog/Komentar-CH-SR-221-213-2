@@ -14,7 +14,14 @@
     "limits": "Historisches Übergangsrecht, keine neue Frist für aktuelle Kündigungen.",
     "snapshot_sha256": "806eb5104c9b21f42f07e740a316914d62a20e49025f270ab4d4c992d1b05bbb",
     "captured_at": "2026-10-19T12:55:54+00:00",
-    "source_kind": "Amtlich publizierter BGE-Entscheidungsauszug vollständig gelesen, nicht nur Regeste; nicht als vollständiger unpublizierter Ausgangsentscheid ausgegeben."
+    "source_kind": "Amtlich publizierter BGE-Entscheidungsauszug vollständig gelesen, nicht nur Regeste; nicht als vollständiger unpublizierter Ausgangsentscheid ausgegeben.",
+    "second_pass": {
+      "receipt": "review-retrieval.json",
+      "raw_and_markdown_snapshot": "review-bge-113-ii-447.json",
+      "read_scope": "Urteilskopf, gesamter publizierter Sachverhalt und sämtliche publizierten Erwägungen; keine unpublizierten Urteilsteile.",
+      "holding_verified": true,
+      "cache_state": "hit"
+    }
   },
   {
     "court": "Bundesgericht, I. Zivilabteilung",
@@ -32,6 +39,13 @@
     "limits": "Nur Begriffsabgrenzung verwendet; damalige Verweise auf spätere geänderte/aufgehobene Normen nicht als heutiger Wortlaut übernommen.",
     "snapshot_sha256": "0bae055a9c6a0e1172aea457fb61c847dce6585d48f2100b49b2c366539981c0",
     "captured_at": "2026-10-19T13:02:24+00:00",
-    "source_kind": "Amtlich publizierter BGE-Entscheidungsauszug vollständig gelesen, nicht nur Regeste; nicht als vollständiger unpublizierter Ausgangsentscheid ausgegeben."
+    "source_kind": "Amtlich publizierter BGE-Entscheidungsauszug vollständig gelesen, nicht nur Regeste; nicht als vollständiger unpublizierter Ausgangsentscheid ausgegeben.",
+    "second_pass": {
+      "receipt": "review-retrieval.json",
+      "raw_and_markdown_snapshot": "review-bge-115-ii-181.json",
+      "read_scope": "Urteilskopf, gesamter publizierter Sachverhalt und sämtliche publizierten Erwägungen; keine unpublizierten Urteilsteile.",
+      "holding_verified": true,
+      "cache_state": "hit"
+    }
   }
 ]

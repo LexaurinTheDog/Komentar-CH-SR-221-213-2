@@ -15,5 +15,15 @@
     "Direkte HTTP-Antworten mit Incapsula-Iframe trotz Status 200: kein Urteilsvolltext.",
     "Einzelne Weböffnungen von Bundesgerichtsseiten mit Timeout/502: nicht als Inhaltsbeleg verwendet."
   ],
-  "scope": "Gezielte Kernfragen; keine umfassende Judikaturrecherche je Artikel; nicht ausgewertete Treffer sind keine verifizierten Autoritäten."
+  "scope": "Gezielte Kernfragen; keine umfassende Judikaturrecherche je Artikel; nicht ausgewertete Treffer sind keine verifizierten Autoritäten.",
+  "second_pass": {
+    "date": "2026-10-19",
+    "action": "Beide bereits verwendeten amtlichen BGE-Auszüge erneut über Firecrawl angefragt und vollständig in Sachverhalt und Erwägungen gelesen; kein neuer Fall hinzugefügt.",
+    "case_snapshot_files": [
+      "sources/review-bge-113-ii-447.json",
+      "sources/review-bge-115-ii-181.json"
+    ],
+    "cache_disclosure": "Beide Antworten waren Cachetreffer desselben Tages.",
+    "scope": "Prüfung sämtlicher bestehender Autoritätsbehauptungen; keine Erweiterung zu einer vollständigen Recherche oder systematischen Suche im lokalen nationalen Korpus."
+  }
 }

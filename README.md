@@ -2,7 +2,7 @@
 
 Deutschsprachiger vollständiger Kommentierungsentwurf: **64 amtliche Einheiten**, 7 Kapitel; SR **221.213.2**. Fedlex-Fassung anwendbar ab **2014-01-01**, jüngste amtlich ausgewiesene Fassung am **19.10.2026** überprüft.
 
-**Status: ausgearbeiteter Entwurf; technische Prüfung dokumentiert, unabhängige Zweitdurchsicht und externe Fachbegutachtung noch nicht erfolgt.** Mindestlänge ist kein materieller Qualitätsnachweis.
+**Status: Entwurf nach vollständiger unabhängiger Zweitdurchsicht aller 64 Einheiten; technische Prüfung dokumentiert. Keine externe Fachbegutachtung oder berufliche Freigabe.** Mindestlänge ist kein materieller Qualitätsnachweis.
 
 - [Einleitung, Umfang und Methode](00-einleitung.md)
 - [Inhaltsverzeichnis](INDEX.md)
@@ -10,6 +10,8 @@ Deutschsprachiger vollständiger Kommentierungsentwurf: **64 amtliche Einheiten*
 - [Rechtsprechungskarten](RECHTSPRECHUNG.md)
 - [Kapitelcheckliste](CHECKLISTE.md)
 - [Modellfälle](FALLBEISPIELE.md)
+- [Zweitprüfbericht mit Korrekturen und Grenzen](REVIEW.md)
+- [Amtlicher Ingress und Gliederungsanmerkungen](AMTLICHE-STRUKTUR.md)
 - [Unabhängig abgeleitetes Einheiteninventar](coverage-evidence.json)
 - [Technische Zusatzprüfungen](completeness.json)
 

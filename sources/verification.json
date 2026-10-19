@@ -40,5 +40,18 @@
   "global_intake_modified": false,
   "limitations": [
     "Keine vollständige Rekonstruktion aller historischen Änderungsgesetze; neueste zum Stichtag amtlich ausgewiesene Konsolidierung und deren Anwendbarkeitsdatum geprüft."
-  ]
+  ],
+  "second_pass": {
+    "checked_at": "2026-10-19T13:13:05.200883+00:00",
+    "receipts": "review-retrieval.json",
+    "html_same_bytes": true,
+    "version_inventory_same_bytes": true,
+    "version_metadata_same_bytes": true,
+    "latest_effective_member": "20140101",
+    "date_applicability": "2014-01-01",
+    "footnotes_total": 60,
+    "non_article_footnotes": 8,
+    "changes_since_intake": "Kein materieller Versionswechsel nachgewiesen; identische jüngste amtlich ausgewiesene Konsolidierung.",
+    "judicial_retrieval": "Erneute Firecrawl-Anfrage; Cachetreffer vom selben Prüftag, Raw-HTML und Markdown gespeichert."
+  }
 }

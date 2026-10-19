@@ -13,10 +13,14 @@
 
 Die unveränderte Intake-Kopie ist in [intake-original.md](sources/intake-original.md) mit SHA-256 `4d39abaae99efd4cd04c8edb818e2a6d31b0d6f1ef5d7298e1a0c07768a79e9d` erhalten. [Änderungskarte](sources/change-map.json): keine inhaltliche Gesetzesänderung; lediglich Layout- und Fussnotenmarker werden normalisiert. Die eigene kanonische Quelle ersetzt keine Originalverkündung. Keine Änderung am globalen Intake.
 
-Die materiellen Texte werden aus dem aktuellen amtlichen Abruf extrahiert. Absätze mit Auslassungszeichen bleiben erhalten. Gruppierte Aufhebungen werden wie amtlich in einer Einheit dargestellt; sie verschwinden weder aus dem Inventar noch werden sie als neue Einzeltexte rekonstruiert. Art. 64 ArG ist gegebenenfalls gesondert als amtlich textleere Änderungseinheit dokumentiert. [Deckungsnachweis](coverage-evidence.json).
+Die materiellen Texte werden aus dem aktuellen amtlichen Abruf extrahiert. Absätze mit Auslassungszeichen bleiben erhalten. Gruppierte Aufhebungen werden wie amtlich in einer Einheit dargestellt; sie verschwinden weder aus dem Inventar noch werden sie als neue Einzeltexte rekonstruiert. [Deckungsnachweis](coverage-evidence.json).
 
 ## Nachprüfbarkeit und Grenzen
 
 Parser und Einheiten sind unter `provenance/` beigefügt. Für Reproduktion den Parser mit `assignment.json` und `sources/` in ein separates Arbeitsverzeichnis kopieren; Ausgabeziele vorher anpassen, damit kein fertiger Stand überschrieben wird. Die amtliche Fussnoten- und Absatzstruktur bleibt im Rohtext überprüfbar. [Prüfergebnis](completeness.json). Ein Hash belegt Dateiintegrität, keine materielle Richtigkeit.
 
 [Rechtsprechungskarten](RECHTSPRECHUNG.md) beschreiben tatsächlich ausgewertete amtliche publizierte Auszüge; direkte Bot-Schutzantworten wurden verworfen. Nicht jedes Ausführungsrecht und nicht jede historische Änderung ist vollständig untersucht. Alle Quellenartefakte sind im lokalen Hashmanifest erfasst.
+
+## Zweitprüfung am 19. Oktober 2026
+
+Fedlex-HTML, Versionsinventar und Anwendbarkeitsmetadaten wurden erneut mit HTTP 200 abgerufen; die Körper stimmen bytegenau mit der Erstprüfung überein. [Neue Abrufbelege](sources/review-retrieval.json). Die jüngste ausgewiesene Konsolidierung bleibt der 1. Januar 2014. [Ingress und Gliederungsanmerkungen](AMTLICHE-STRUKTUR.md) ergänzen die artikelbezogenen Fussnoten; [Gesamtinventar aller 60 Fussnoten](sources/footnotes.json). Die erneut über Firecrawl bezogenen amtlichen BGE-Auszüge stammen laut Metadaten aus dem Cache desselben Prüftags; dies ist kein behaupteter neuer Direktabruf am Gerichtsserver. [Sachliche Zweitprüfung](REVIEW.md).

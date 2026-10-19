@@ -46,8 +46,6 @@ Auch das Vorpachtrecht an benachbarten Alpweiden ist eine kantonale Gestaltungsm
 
 Beispiel: Ein benachbarter Bergbetrieb erfährt von einer geplanten Neuverpachtung und beruft sich auf seine bisherige gelegentliche Weidenutzung. Daraus allein folgt kein Vorpachtrecht. Zunächst sind die kantonale Rechtsgrundlage und ihre Voraussetzungen zu belegen. Art. 3 eröffnet daneben allgemeiner abweichendes kantonales Pachtrecht für Alpen und Weiden; das Vorpachtrecht nach Art. 6 ist hiervon zu unterscheiden. Wer eine solche Fläche langfristig einplant, sollte deshalb Nutzungsrecht, zuständige Rechtsordnung und ein mögliches Vergabeverfahren vor wirtschaftlichen Investitionen klären.
 
-**Praxischeck zum Kapitel:** Geltungsbereich: Gegenstand und Gewerbestatus feststellen; Kleinflächen zusammenrechnen; Bauzonen- und kantonale Sonderregeln abklären.
-
 #### 3. Abschnitt: Pachtdauer
 
 ### Art. 7 — Erstmalige Verpachtung
@@ -172,6 +170,8 @@ Die Ausnahme vom Eintrittsgrundsatz ist an den unmittelbaren Erwerbszweck gebund
 
 Der Pächter kann innert 30 Tagen seit Empfang auf Erstreckung klagen. Bei ungerechtfertigter Härte unter Abwägung der Erwerberinteressen beträgt sie mindestens sechs Monate und höchstens zwei Jahre; dies unterscheidet sich von Art. 27. Der bisherige Verpächter schuldet den Schaden aus dem vorzeitigen Ende. Bis zu dessen Ersatz oder hinreichender Sicherheit muss der Pächter nicht verlassen. Absatz 5 lässt eine Regelung im Veräusserungsvertrag mit schriftlicher Pächterzustimmung zu. Beispiel: Bei Hofkauf zur Selbstbewirtschaftung sind Erwerbszweck, Anzeigezugang, Termin, Erstreckungsfrist und Schadenssicherung getrennt zu planen; die Zustimmung zum Kauf bedeutet nicht ohne Weiteres Zustimmung zur vorzeitigen Beendigung.
 
+Für die Selbstbewirtschaftung ist BGE 115 II 181 (8.5.1989, E. 2b–c) einschlägig: Die Stiftung wollte den Pächter durch einen angestellten Bauern ersetzen und erfüllte damit die erforderliche wesentliche persönliche Tätigkeit nicht. Juristische Personen sind nach dem Auszug nicht grundsätzlich ausgeschlossen, wenn ihre Mitglieder oder Gesellschafter diese Voraussetzung erfüllen. Das Urteil betrifft den Begriff in Art. 15 und 27; es beantwortet keine allgemeine Frage, ob Angestellte bei jeder Pacht eingesetzt werden dürfen. Dafür enthält Art. 21a Abs. 2 eine eigene Regel ([Fallkarte](RECHTSPRECHUNG.md)).
+
 #### 6. Abschnitt: Beendigung der Pacht
 
 ### Art. 16 — Kündigung im Allgemeinen
@@ -277,6 +277,8 @@ Bei Auflösung schuldet der Pächter Schadenersatz, wenn er nicht nachweist, das
 Der Pächter muss sorgfältig und mit Blick auf die nachhaltige Bodenertragsfähigkeit wirtschaften. Kurzfristige Maximierung auf Kosten der langfristigen Nutzbarkeit kann deshalb auch dann problematisch sein, wenn sie zunächst hohe Erträge bringt. Die Pflicht trifft den Pächter selbst; Absatz 2 erlaubt aber die Ausführung durch Familienangehörige, Angestellte oder Mitglieder seiner Bewirtschaftungsgemeinschaft sowie einzelne Arbeiten durch Dritte unter seiner Verantwortung.
 
 Persönliche Bewirtschaftung bedeutet daher nicht, dass jede Maschinenarbeit eigenhändig erfolgen muss. Sie erlaubt ebenso wenig eine voraussetzungslose vollständige Weiterüberlassung an einen beliebigen Betrieb. Beispiel: Ein Pächter vergibt die Ernte an ein Lohnunternehmen. Das kann von der ausdrücklichen Zulassung einzelner Arbeiten gedeckt sein; die Verantwortung für Bodenpflege und Betriebsführung bleibt bei ihm. Bei fortgesetzten Pflichtverletzungen enthält Art. 22b nach schriftlicher Ermahnung einen besonderen Kündigungsweg. Für die Praxis sind Bewirtschaftungsplan, tatsächliche Verantwortungsverteilung und konkrete Beanstandungen wichtiger als die blosse Benennung eines Betriebsmodells.
+
+Diese Pflicht ist vom Selbstbewirtschaftungsgrund zu unterscheiden, auf den sich ein Erwerber nach Art. 15 oder ein kündigender Verpächter nach Art. 27 beruft. Die dort ausgewertete ältere Rechtsprechung zu wesentlicher persönlicher Tätigkeit hebt die ausdrückliche Zulassung von Familienangehörigen und Angestellten in Absatz 2 nicht auf. Ein zulässiger Personaleinsatz des bestehenden Pächters beweist daher für sich weder einen Vertragsverstoss noch die Selbstbewirtschaftung eines Erwerbers.
 
 ### Art. 22 — Unterhaltspflicht, Reparaturen
 

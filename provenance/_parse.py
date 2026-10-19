@@ -69,5 +69,28 @@ def main():
  assert not annex_ids,annex_ids
  coverage=dict(official_source=dict(url=j['source_url'],local_raw_evidence_path=str(raw),sha256=hashlib.sha256(raw.read_bytes()).hexdigest()),expected_ids=expected,parsed_ids=parsed,expected_derivation='Unabhängige reguläre Inventarisierung sämtlicher article-ID-Attribute und der selbständigen Schlussbestimmung disp_u1 im amtlichen Roh-HTML; nicht aus units.jsonl kopiert.',annex_disposition='Im gesamten amtlichen Roh-HTML keine eigenständige Anlage/kein Anhang vorhanden; Schlussbestimmungen und aufgehobene Sammelstellen sind ausdrücklich einbezogen.',repealed_slots=[dict(id=u['id'],label=u['label']) for u in units if u['repealed']],empty_slots=[dict(id=u['id'],label=u['label'],repealed=u['repealed']) for u in units if u['empty_slot']],missing_ids=[],duplicate_ids=[],ok=True)
  (w/'coverage-evidence.json').write_text(json.dumps(coverage,ensure_ascii=False,indent=2))
+ # Preserve notes belonging to the preamble/structural headings, separately
+ # from article notes; do not attach them to an unrelated numbered provision.
+ footnotes=[]
+ def collect(n,ancestors):
+  if n.tag=='p' and n.attrs.get('id','').startswith('fn-'):
+   owner=next((a for a in reversed(ancestors) if a.tag=='article' or a.attrs.get('id')=='preamble' or a.tag=='section'),None)
+   footnotes.append(dict(id=n.attrs['id'],number=int(clean(n.text(True)).split()[0]),owner_id=owner.attrs.get('id') if owner else None,text=clean(n.text(True))))
+  for c in n.items:
+   if isinstance(c,Node):collect(c,ancestors+[n])
+ collect(root,[])
+ expected_notes=re.findall(r'<p\b[^>]*\bid="(fn-[^"]+)"',s)
+ assert expected_notes==[f['id'] for f in footnotes]
+ assert len(expected_notes)==len(set(expected_notes))
+ (w/'sources/footnotes.json').write_text(json.dumps(footnotes,ensure_ascii=False,indent=2))
+ preamble=next(n for n in root.all() if n.attrs.get('id')=='preamble')
+ extra=[f for f in footnotes if not f['owner_id'].startswith('art_')]
+ md='# Amtlicher Ingress und Anmerkungen zur Gliederung\n\nMechanische Ergänzung aus dem gesicherten [Fedlex-HTML](sources/snapshot-official.html), Stand 1. Januar 2014, geprüft am 19. Oktober 2026. Diese amtlichen Anmerkungen sind vom eigenen Kommentar getrennt. Artikelbezogene Anmerkungen stehen bei den Artikeln; das [Gesamtinventar](sources/footnotes.json) erfasst alle 60 Fussnoten.\n\n## Ingress\n\n'
+ md+='\n>\n'.join('> '+p for p in clean(preamble.text()).split('\n\n'))+'\n\n## Anmerkungen ausserhalb der Artikel\n\n'
+ for f in extra:
+  md+=f"### Fussnote {f['number']} — `{f['owner_id']}`\n\n> {f['text']}\n\n"
+ (w/'AMTLICHE-STRUKTUR.md').write_text(md)
+ coverage['footnotes']={'expected_ids':expected_notes,'extracted_ids':[f['id'] for f in footnotes],'total':len(footnotes),'outside_articles':len(extra),'disposition':'Artikelanmerkungen in units.jsonl; Ingress und acht strukturelle Anmerkungen in AMTLICHE-STRUKTUR.md; alle Anmerkungen mit amtlicher ID in sources/footnotes.json.'}
+ (w/'coverage-evidence.json').write_text(json.dumps(coverage,ensure_ascii=False,indent=2))
  print(j['repo'],len(units),'units',len(chapters),'chapters')
 if __name__=='__main__':main()

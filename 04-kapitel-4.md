@@ -98,6 +98,8 @@ Für einzelne Grundstücke kombiniert die Bemessung Ertragswertverzinsung, Verp�
 
 Für landwirtschaftliche Gebäude sind der allgemeine Vorteilszuschlag und die individuellen Zuschläge ausdrücklich ausgeschlossen. Beispiel: Eine zusätzliche nahe gelegene Wiese kann für einen Betrieb einen anderen Arrondierungsvorteil haben als für einen weit entfernten Interessenten. Die blosse Behauptung hoher Nachfrage ersetzt die gesetzliche Nutzenprüfung nicht. Gebäudewert und Flächenvorteile sind getrennt auszuweisen. Die anwendbaren Ausgangswerte und Verordnungssätze werden durch die hier genannten Prozentgrenzen nicht ersetzt. Das Verfahren folgt bei Grundstücken Art. 43; nicht jede zulässige Bemessungsposition begründet zugleich einen Anspruch auf einseitige Erhöhung während einer laufenden Pacht. Dafür ist zusätzlich der Anpassungsweg nach Art. 10 oder 11 zu prüfen.
 
+Buchstabe a behält im laufenden Wortlaut den Verweis auf das frühere Entschuldungsgesetz. Die amtliche Fussnote 44 weist ausdrücklich auf den heutigen Art. 10 BGBB hin. Das historische Verweisungsziel wird hier weder als weiterhin geltendes eigenständiges Bewertungsregime behandelt noch stillschweigend im Zitat ersetzt. Für die Anwendung sind der amtliche Hinweis und die zeitlich einschlägigen Bewertungsgrundlagen zusammenzulesen.
+
 ### Art. 39 — Zinse für Miet- und nichtlandwirtschaftliche Pachtsachen
 
 **Wortlaut der Vorschrift:**
