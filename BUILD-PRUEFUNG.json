@@ -3,7 +3,7 @@
     "repo": "Komentar-CH-SR-221-213-2",
     "units": 64,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 72313,
+    "commentary_chars": 74886,
     "errors": [],
     "warnings": [],
     "ok": true
@@ -15,14 +15,19 @@
     "parsed_ids_match": true,
     "annex_disposition": "Im gesamten amtlichen Roh-HTML keine eigenständige Anlage/kein Anhang vorhanden; Schlussbestimmungen und aufgehobene Sammelstellen sind ausdrücklich einbezogen.",
     "raw_character_sequence_all_units": true,
+    "footnotes_complete": true,
+    "footnote_count": 60,
+    "non_article_footnotes_preserved": 8,
+    "chapter_end_checklists_correct": true,
     "chapter_commentary_match": true,
     "all_ordinary_comments_700_plus": true,
     "no_repeated_long_paragraphs": true,
     "local_links_ok": true,
     "source_copies_exact": true,
     "license_exact": true,
-    "commentary_chars": 72313,
+    "commentary_chars": 74886,
     "technical_check_not_substantive_review": true
   },
-  "review_state": "Ausgearbeiteter Entwurf; keine unabhängige Zweitdurchsicht und keine externe Fachbegutachtung."
+  "review_state": "Vollständige unabhängige Zweitdurchsicht aller 64 Einheiten abgeschlossen; Entwurf ohne externe Fachfreigabe.",
+  "review_result": "review-result.json"
 }

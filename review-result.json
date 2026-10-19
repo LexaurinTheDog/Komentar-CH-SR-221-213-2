@@ -97,5 +97,34 @@
   "review_report": "REVIEW.md",
   "unit_audit": "review-unit-audit.json",
   "source_receipts": "sources/review-retrieval.json",
-  "review_mode": "Gesonderter zweiter Prozess; keine externe professionelle Genehmigung."
+  "review_mode": "Gesonderter zweiter Prozess; keine externe professionelle Genehmigung.",
+  "validation_result": {
+    "repo": "Komentar-CH-SR-221-213-2",
+    "units": 64,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 74886,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "additional_validation": {
+    "ok": true,
+    "statutory_units": 64,
+    "expected_ids_independent": true,
+    "parsed_ids_match": true,
+    "annex_disposition": "Im gesamten amtlichen Roh-HTML keine eigenständige Anlage/kein Anhang vorhanden; Schlussbestimmungen und aufgehobene Sammelstellen sind ausdrücklich einbezogen.",
+    "raw_character_sequence_all_units": true,
+    "footnotes_complete": true,
+    "footnote_count": 60,
+    "non_article_footnotes_preserved": 8,
+    "chapter_end_checklists_correct": true,
+    "chapter_commentary_match": true,
+    "all_ordinary_comments_700_plus": true,
+    "no_repeated_long_paragraphs": true,
+    "local_links_ok": true,
+    "source_copies_exact": true,
+    "license_exact": true,
+    "commentary_chars": 74886,
+    "technical_check_not_substantive_review": true
+  }
 }
