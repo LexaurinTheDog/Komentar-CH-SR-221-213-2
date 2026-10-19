@@ -2,5 +2,6 @@
   "same_consolidation_date": true,
   "comparison": "Absatzmarker am Zeilenanfang als Absatznummer normalisiert, inline-Fussnotenmarker entfernt, Layout-Leerraum ignoriert; jede längere extrahierte Textpassage mit archiviertem Intake verglichen.",
   "unmatched_passages": [],
-  "substantive_change_detected": false
+  "substantive_change_detected": false,
+  "all_long_passages_match_after_documented_normalization": true
 }

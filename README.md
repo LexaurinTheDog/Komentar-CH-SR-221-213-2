@@ -16,3 +16,5 @@ Deutschsprachiger vollständiger Kommentierungsentwurf: **64 amtliche Einheiten*
 [Amtlicher Fedlex-Text](https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/926_926_926/20140101/de/html/fedlex-data-admin-ch-eli-cc-1986-926_926_926-20140101-de-html-14.html). Normtext mechanisch aus dem gesicherten HTML übernommen; PDF, Metadaten und Abrufbelege im Verzeichnis `sources/`. Vollständige eigene Erläuterungen, ausgewählte verifizierte amtliche Rechtsprechung und praktische Anwendungsbeispiele. Keine umfassende Rechtsprechungsrecherche behauptet.
 
 Kommentartext © 2026 Vojtěch Říha. Eigene Beiträge unter **Apache-2.0**, siehe [LICENSE](LICENSE); amtliche Materialien getrennt gekennzeichnet. Ohne Gewähr, kein Ersatz für individuelle Rechtsberatung. [Projektkonto](https://github.com/LexaurinTheDog). Nur lokaler Git-Stand, kein Push und keine Veröffentlichung.
+
+[Strikter Build- und Zusatzprüfbericht](BUILD-PRUEFUNG.json).

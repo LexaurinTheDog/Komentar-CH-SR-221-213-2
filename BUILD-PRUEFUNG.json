@@ -1,0 +1,28 @@
+{
+  "strict": {
+    "repo": "Komentar-CH-SR-221-213-2",
+    "units": 64,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 72313,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "additional": {
+    "ok": true,
+    "statutory_units": 64,
+    "expected_ids_independent": true,
+    "parsed_ids_match": true,
+    "annex_disposition": "Im gesamten amtlichen Roh-HTML keine eigenständige Anlage/kein Anhang vorhanden; Schlussbestimmungen und aufgehobene Sammelstellen sind ausdrücklich einbezogen.",
+    "raw_character_sequence_all_units": true,
+    "chapter_commentary_match": true,
+    "all_ordinary_comments_700_plus": true,
+    "no_repeated_long_paragraphs": true,
+    "local_links_ok": true,
+    "source_copies_exact": true,
+    "license_exact": true,
+    "commentary_chars": 72313,
+    "technical_check_not_substantive_review": true
+  },
+  "review_state": "Ausgearbeiteter Entwurf; keine unabhängige Zweitdurchsicht und keine externe Fachbegutachtung."
+}
