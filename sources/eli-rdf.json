@@ -1,0 +1,7 @@
+{
+  "url": "https://fedlex.data.admin.ch/eli/cc/1986/926_926_926",
+  "final_url": "https://fedlex.data.admin.ch/sparqlendpoint?query=CONSTRUCT+%7B%0A++%3Fs+%3Fp+%3Fo.%0A%7D+WHERE+%7B%0A++GRAPH+%3Chttps%3A%2F%2Ffedlex.data.admin.ch%2Feli%2Fcc%2F1986%2F926_926_926%2Fgraph%3E+%7B%0A++++%3Fs+%3Fp+%3Fo.%0A++%7D%0A%7D",
+  "http_status": 200,
+  "sha256": "109c57dc49a6858ba738e401ca757687f64b1e8661c5ed0151bfc1174e40f073",
+  "retrieved_at": "2026-10-19T12:43:35.660753+00:00"
+}

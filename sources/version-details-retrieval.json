@@ -1,0 +1,6 @@
+{
+  "url": "https://fedlex.data.admin.ch/sparqlendpoint?query=SELECT+%3Fp+%3Fo+WHERE+%7B+%3Chttps%3A%2F%2Ffedlex.data.admin.ch%2Feli%2Fcc%2F1986%2F926_926_926%2F20140101%3E+%3Fp+%3Fo+%7D&format=json",
+  "http_status": 200,
+  "retrieved_at": "2026-10-19T13:01:22.901255+00:00",
+  "sha256": "dc1d600f4688c434ee9b4e49870141842a4279491a41aa0f29a3b8a4746c874a"
+}

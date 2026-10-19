@@ -1,0 +1,44 @@
+{
+  "checked_at": "2026-10-19T13:05:12.098638+00:00",
+  "official_html": {
+    "url": "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/926_926_926/20140101/de/html/fedlex-data-admin-ch-eli-cc-1986-926_926_926-20140101-de-html-14.html",
+    "http_status": 200,
+    "retrieved_at": "2026-10-19T12:43:13.475428+00:00",
+    "sha256": "97ef3602b5e93c54edeee3b03d6e8dee812074566a36c7c90a8c9797ce835339"
+  },
+  "official_pdf": {
+    "url": "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/926_926_926/20140101/de/pdf-a/fedlex-data-admin-ch-eli-cc-1986-926_926_926-20140101-de-pdf-a.pdf",
+    "http_status": 200,
+    "retrieved_at": "2026-10-19T12:45:57.125360+00:00",
+    "sha256": "a6837d657d9eb52b46dfb47f423077e5a29b019c061bde75829ef0021bb4d132"
+  },
+  "version_inventory": {
+    "url": "https://fedlex.data.admin.ch/sparqlendpoint?query=SELECT+%3Fs+%3Fp+WHERE+%7B+%3Fs+%3Fp+%3Chttps%3A%2F%2Ffedlex.data.admin.ch%2Feli%2Fcc%2F1986%2F926_926_926%3E+%7D&format=json",
+    "http_status": 200,
+    "retrieved_at": "2026-10-19T13:05:12.453848+00:00",
+    "sha256": "1bfa7c024465e4998b80142344a4f6bc4baa2d1301f30799086521e12a0cd89b",
+    "latest_effective_member": "20140101",
+    "pending_projects_not_treated_as_law": [
+      "https://fedlex.data.admin.ch/eli/dl/proj/2026/71/cons_1",
+      "https://fedlex.data.admin.ch/eli/dl/proj/6018/79/cons_1"
+    ]
+  },
+  "version_metadata": {
+    "url": "https://fedlex.data.admin.ch/sparqlendpoint?query=SELECT+%3Fp+%3Fo+WHERE+%7B+%3Chttps%3A%2F%2Ffedlex.data.admin.ch%2Feli%2Fcc%2F1986%2F926_926_926%2F20140101%3E+%3Fp+%3Fo+%7D&format=json",
+    "http_status": 200,
+    "retrieved_at": "2026-10-19T13:01:22.901255+00:00",
+    "sha256": "dc1d600f4688c434ee9b4e49870141842a4279491a41aa0f29a3b8a4746c874a"
+  },
+  "date_applicability": "2014-01-01",
+  "format_validation": {
+    "html_statutory_articles": true,
+    "pdf_magic_verified": true,
+    "generic_eli_html_is_application_shell_not_statute": true
+  },
+  "intake_original_sha256": "4d39abaae99efd4cd04c8edb818e2a6d31b0d6f1ef5d7298e1a0c07768a79e9d",
+  "change_map": "change-map.json",
+  "global_intake_modified": false,
+  "limitations": [
+    "Keine vollständige Rekonstruktion aller historischen Änderungsgesetze; neueste zum Stichtag amtlich ausgewiesene Konsolidierung und deren Anwendbarkeitsdatum geprüft."
+  ]
+}

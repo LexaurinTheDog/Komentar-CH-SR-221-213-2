@@ -1,0 +1,103 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5866>	rdf:type	skos:Concept .
+@prefix jolux:	<http://data.legilux.public.lu/resource/ontology/jolux#> .
+<https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5866>	rdf:type	jolux:LegalTaxonomy .
+<https://fedlex.data.admin.ch/vocabulary/enforcement-status/0>	rdf:type	skos:Concept ,
+		jolux:EnforcementStatus .
+<https://fedlex.data.admin.ch/eli/oc/1986/926_926_926>	rdf:type	jolux:Work ,
+		jolux:WorkAtOj ,
+		jolux:Act .
+@prefix ns3:	<https://fedlex.data.admin.ch/vocabulary/resource-family/> .
+<https://fedlex.data.admin.ch/eli/oc/1986/926_926_926>	jolux:legalResourceFamilyType	ns3:oc .
+@prefix ns4:	<https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/> .
+ns4:de	rdf:type	jolux:Expression ;
+	jolux:titleShort	"LPG" ;
+	jolux:title	"Bundesgesetz vom 4. Oktober 1985 \u00FCber die landwirtschaftliche Pacht (LPG)" .
+@prefix ns5:	<http://publications.europa.eu/resource/authority/language/> .
+ns4:de	jolux:language	ns5:DEU ;
+	jolux:historicalLegalId	"221.213.2" .
+ns4:fr	rdf:type	jolux:Expression ;
+	jolux:titleShort	"LBFA" ;
+	jolux:title	"Loi f\u00E9d\u00E9rale du 4 octobre 1985 sur le bail \u00E0 ferme agricole (LBFA)" ;
+	jolux:language	ns5:FRA ;
+	jolux:historicalLegalId	"221.213.2" .
+ns4:it	rdf:type	jolux:Expression ;
+	jolux:titleShort	"LAAgr" ;
+	jolux:title	"Legge federale del 4 ottobre 1985 sull'affitto agricolo (LAAgr)" ;
+	jolux:language	ns5:ITA ;
+	jolux:historicalLegalId	"221.213.2" .
+<https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/art_1/1>	rdf:type	jolux:SubdivisionIdentificationDetail ;
+	jolux:legalResourceSubdivisionDetailId	"1" .
+@prefix ns6:	<https://fedlex.data.admin.ch/vocabulary/subdivision-type/> .
+<https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/art_1/1>	jolux:legalResourceSubdivisionDetailType	ns6:art .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/art_1/1>	jolux:subdivisionIdentificationDetailOrder	"1"^^xsd:int .
+<https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/art_47/1>	rdf:type	jolux:SubdivisionIdentificationDetail ;
+	jolux:legalResourceSubdivisionDetailId	"47" ;
+	jolux:legalResourceSubdivisionDetailType	ns6:art ;
+	jolux:subdivisionIdentificationDetailOrder	"1"^^xsd:int .
+<https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/art_48/1>	rdf:type	jolux:SubdivisionIdentificationDetail ;
+	jolux:legalResourceSubdivisionDetailId	"48" ;
+	jolux:legalResourceSubdivisionDetailType	ns6:art ;
+	jolux:subdivisionIdentificationDetailOrder	"1"^^xsd:int .
+ns5:DEU	rdf:type	jolux:Language ,
+		skos:Concept .
+ns5:FRA	rdf:type	skos:Concept ,
+		jolux:Language .
+ns5:ITA	rdf:type	jolux:Language ,
+		skos:Concept .
+ns4:text	rdf:type	jolux:LegalResourceSubdivision ;
+	jolux:legalResourceSubdivisionIsPartOf	<https://fedlex.data.admin.ch/eli/cc/1986/926_926_926> ;
+	jolux:legalResourceSubdivisionType	ns6:text .
+ns6:art	rdf:type	jolux:SubdivisionType ,
+		skos:Concept .
+<https://fedlex.data.admin.ch/eli/cc/1986/926_926_926>	rdf:type	jolux:Work ,
+		jolux:WorkAtOj ,
+		jolux:ConsolidationAbstract .
+@prefix ns8:	<https://fedlex.data.admin.ch/datatype/> .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+<https://fedlex.data.admin.ch/eli/cc/1986/926_926_926>	dcterms:identifier	"19850206"^^ns8:dossier ;
+	jolux:basicAct	<https://fedlex.data.admin.ch/eli/oc/1986/926_926_926> ;
+	jolux:dateEntryInForce	"1986-10-20"^^xsd:date ;
+	jolux:historicalTypeDocument	<https://fedlex.data.admin.ch/vocabulary/resource-type/54> ;
+	jolux:inForceStatus	<https://fedlex.data.admin.ch/vocabulary/enforcement-status/0> ;
+	jolux:isRealizedBy	ns4:de ,
+		ns4:fr ,
+		ns4:it .
+@prefix ns10:	<http://cogni.internal.system/model#> .
+<https://fedlex.data.admin.ch/eli/cc/1986/926_926_926>	ns10:skipIndex	"false"^^xsd:boolean ;
+	jolux:historicalLegalId	"221.213.2" ;
+	jolux:classifiedByTaxonomyEntry	<https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5866> ;
+	jolux:typeDocument	<https://fedlex.data.admin.ch/vocabulary/resource-type/21> ;
+	jolux:dateDocument	"1985-10-04"^^xsd:date ;
+	ns10:firstPublicationDate	"1986-10-20"^^xsd:date .
+ns4:art_1	rdf:type	jolux:LegalResourceSubdivision ;
+	jolux:legalResourceSubdivisionHasSubdivisionIdentificationDetail	<https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/art_1/1> ;
+	jolux:legalResourceSubdivisionIsPartOf	<https://fedlex.data.admin.ch/eli/cc/1986/926_926_926> ;
+	jolux:legalResourceSubdivisionType	ns6:art .
+@prefix ns11:	<https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/art_1/> .
+ns4:art_1	jolux:isRealizedBy	ns11:it ,
+		ns11:de ,
+		ns11:fr .
+ns4:art_47	rdf:type	jolux:LegalResourceSubdivision ;
+	jolux:legalResourceSubdivisionHasSubdivisionIdentificationDetail	<https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/art_47/1> ;
+	jolux:legalResourceSubdivisionIsPartOf	<https://fedlex.data.admin.ch/eli/cc/1986/926_926_926> ;
+	jolux:legalResourceSubdivisionType	ns6:art .
+@prefix ns12:	<https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/art_47/> .
+ns4:art_47	jolux:isRealizedBy	ns12:de ,
+		ns12:fr ,
+		ns12:it .
+ns4:art_48	rdf:type	jolux:LegalResourceSubdivision ;
+	jolux:legalResourceSubdivisionHasSubdivisionIdentificationDetail	<https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/art_48/1> ;
+	jolux:legalResourceSubdivisionIsPartOf	<https://fedlex.data.admin.ch/eli/cc/1986/926_926_926> ;
+	jolux:legalResourceSubdivisionType	ns6:art .
+@prefix ns13:	<https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/art_48/> .
+ns4:art_48	jolux:isRealizedBy	ns13:de ,
+		ns13:fr ,
+		ns13:it .
+ns4:graph	dcterms:modified	"2022-02-02T12:43:40.626344"^^xsd:dateTime .
+<https://fedlex.data.admin.ch/vocabulary/resource-type/54>	rdf:type	jolux:ResourceType ,
+		skos:Concept .
+ns6:text	rdf:type	jolux:SubdivisionType ,
+		skos:Concept .

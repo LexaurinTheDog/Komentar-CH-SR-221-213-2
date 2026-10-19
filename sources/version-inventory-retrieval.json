@@ -1,0 +1,11 @@
+{
+  "url": "https://fedlex.data.admin.ch/sparqlendpoint?query=SELECT+%3Fs+%3Fp+WHERE+%7B+%3Fs+%3Fp+%3Chttps%3A%2F%2Ffedlex.data.admin.ch%2Feli%2Fcc%2F1986%2F926_926_926%3E+%7D&format=json",
+  "http_status": 200,
+  "retrieved_at": "2026-10-19T13:05:12.453848+00:00",
+  "sha256": "1bfa7c024465e4998b80142344a4f6bc4baa2d1301f30799086521e12a0cd89b",
+  "latest_effective_member": "20140101",
+  "pending_projects_not_treated_as_law": [
+    "https://fedlex.data.admin.ch/eli/dl/proj/2026/71/cons_1",
+    "https://fedlex.data.admin.ch/eli/dl/proj/6018/79/cons_1"
+  ]
+}

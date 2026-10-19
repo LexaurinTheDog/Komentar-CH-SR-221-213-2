@@ -1,0 +1,8 @@
+{
+  "url": "https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F113-II-447%3Ade&lang=de&print=yes&type=show_document",
+  "http_status": 200,
+  "retrieved_at": "2026-10-19T12:53:00.954310+00:00",
+  "sha256": "fce047734e3941cec47749ab620f6b41de9d335c15ce0cef0a5c5960bfc51aac",
+  "body_is_statutory_or_judicial_text": false,
+  "reason": "Bot-Schutz-Iframe, als gescheiterter Direktzugriff erhalten"
+}

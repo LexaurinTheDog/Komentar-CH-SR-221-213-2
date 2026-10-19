@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-19",
+  "queries": [
+    "site.bger.ch \"LPG\" \"Erstreckung\" \"27\""
+  ],
+  "tools": [
+    "Websuche amtlicher Bundesgerichtsseiten",
+    "Firecrawl scrape amtlicher publizierter Entscheidungen"
+  ],
+  "successful_cases": [
+    "BGE 113 II 447",
+    "BGE 115 II 181"
+  ],
+  "failed_or_unused": [
+    "Direkte HTTP-Antworten mit Incapsula-Iframe trotz Status 200: kein Urteilsvolltext.",
+    "Einzelne Weböffnungen von Bundesgerichtsseiten mit Timeout/502: nicht als Inhaltsbeleg verwendet."
+  ],
+  "scope": "Gezielte Kernfragen; keine umfassende Judikaturrecherche je Artikel; nicht ausgewertete Treffer sind keine verifizierten Autoritäten."
+}

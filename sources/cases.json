@@ -1,0 +1,37 @@
+[
+  {
+    "court": "Bundesgericht, I. Zivilabteilung",
+    "date": "1987-07-27",
+    "citation": "BGE 113 II 447",
+    "docket": "Im amtlichen publizierten Auszug nicht gesondert ausgewiesen; Fundstelle dient als Identifikator.",
+    "url": "https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F113-II-447%3Ade&lang=de&print=yes&type=show_document",
+    "file": "bge-113-ii-447.md",
+    "pinpoint": "E. 2a–b",
+    "units": [
+      "art_60"
+    ],
+    "holding": "Übergangsvorschrift nicht auf nachgewiesene Missbrauchsabsicht beschränkt; Anerkennung der Kündigung macht die Erstreckung nicht allein missbräuchlich.",
+    "limits": "Historisches Übergangsrecht, keine neue Frist für aktuelle Kündigungen.",
+    "snapshot_sha256": "806eb5104c9b21f42f07e740a316914d62a20e49025f270ab4d4c992d1b05bbb",
+    "captured_at": "2026-10-19T12:55:54+00:00",
+    "source_kind": "Amtlich publizierter BGE-Entscheidungsauszug vollständig gelesen, nicht nur Regeste; nicht als vollständiger unpublizierter Ausgangsentscheid ausgegeben."
+  },
+  {
+    "court": "Bundesgericht, I. Zivilabteilung",
+    "date": "1989-05-08",
+    "citation": "BGE 115 II 181",
+    "docket": "Im amtlichen publizierten Auszug nicht gesondert ausgewiesen.",
+    "url": "https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=BGE-115-II-181&lang=de&type=show_document",
+    "file": "bge-115-ii-181.md",
+    "pinpoint": "E. 2b–c",
+    "units": [
+      "art_15",
+      "art_27"
+    ],
+    "holding": "Selbstbewirtschaftung verlangt wesentliche persönliche Tätigkeit; Stiftung durch angestellten Bauern im Fall nicht selbstbewirtschaftend.",
+    "limits": "Nur Begriffsabgrenzung verwendet; damalige Verweise auf spätere geänderte/aufgehobene Normen nicht als heutiger Wortlaut übernommen.",
+    "snapshot_sha256": "0bae055a9c6a0e1172aea457fb61c847dce6585d48f2100b49b2c366539981c0",
+    "captured_at": "2026-10-19T13:02:24+00:00",
+    "source_kind": "Amtlich publizierter BGE-Entscheidungsauszug vollständig gelesen, nicht nur Regeste; nicht als vollständiger unpublizierter Ausgangsentscheid ausgegeben."
+  }
+]

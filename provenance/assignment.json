@@ -1,0 +1,35 @@
+{
+  "country": "ch",
+  "identifier": "221.213.2",
+  "title": "Bundesgesetz vom 4. Oktober 1985 über die landwirtschaftliche Pacht (LPG)",
+  "path": "/Volumes/LaCie/law-intake/eu/ch/sr/de/221.213.2__cc-1986-926_926_926.md",
+  "source_url": "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/926_926_926/20140101/de/html/fedlex-data-admin-ch-eli-cc-1986-926_926_926-20140101-de-html-14.html",
+  "text_chars": 36474,
+  "source_dates": {
+    "consolidation_date": "2014-01-01",
+    "retrieved_at": "2026-10-02T00:06:38Z"
+  },
+  "manifest_record": {
+    "slug": "sr/de/221.213.2__cc-1986-926_926_926",
+    "doc_key": "https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/2014-01-01/de",
+    "eli": "https://fedlex.data.admin.ch/eli/cc/1986/926_926_926",
+    "sr_number": "221.213.2",
+    "language": "de",
+    "date": "2014-01-01",
+    "chars": 36385,
+    "format": "html",
+    "source": "sr",
+    "path": "/Volumes/LaCie/law-intake/eu/ch/sr/de/221.213.2__cc-1986-926_926_926.md"
+  },
+  "github_match": [],
+  "github_check": "Veřejné názvy a popisy repozitářů účtu LexaurinTheDog; nejde o úplný průzkum vnitřního obsahu všech repozitářů ani soukromých repozitářů.",
+  "repo": "Komentar-CH-SR-221-213-2",
+  "work": "/Volumes/LaCie/open-commentary/_work/ch/Komentar-CH-SR-221-213-2",
+  "output": "/Volumes/LaCie/open-commentary/ch/Komentar-CH-SR-221-213-2",
+  "state": "external_authoring",
+  "priority": 36574,
+  "updated_at": "2026-10-19T12:42:58.106361+00:00",
+  "attempts": 0,
+  "original_source_sha256": "4d39abaae99efd4cd04c8edb818e2a6d31b0d6f1ef5d7298e1a0c07768a79e9d",
+  "external_agent": "01a15420-0537-73b1-b168-4d9ef635c03f"
+}

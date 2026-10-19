@@ -1,0 +1,21 @@
+
+{ "head": { "link": [], "vars": ["s", "p"] },
+  "results": { "distinct": false, "ordered": true, "bindings": [
+    { "s": { "type": "uri", "value": "https://fedlex.data.admin.ch/eli/dl/proj/2026/71/cons_1" }	, "p": { "type": "uri", "value": "http://data.legilux.public.lu/resource/ontology/jolux#foreseenImpactToLegalResource" }},
+    { "s": { "type": "uri", "value": "https://fedlex.data.admin.ch/eli/dl/proj/6018/79/cons_1" }	, "p": { "type": "uri", "value": "http://data.legilux.public.lu/resource/ontology/jolux#foreseenImpactToLegalResource" }},
+    { "s": { "type": "uri", "value": "https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/text" }	, "p": { "type": "uri", "value": "http://data.legilux.public.lu/resource/ontology/jolux#legalResourceSubdivisionIsPartOf" }},
+    { "s": { "type": "uri", "value": "https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/art_1" }	, "p": { "type": "uri", "value": "http://data.legilux.public.lu/resource/ontology/jolux#legalResourceSubdivisionIsPartOf" }},
+    { "s": { "type": "uri", "value": "https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/art_47" }	, "p": { "type": "uri", "value": "http://data.legilux.public.lu/resource/ontology/jolux#legalResourceSubdivisionIsPartOf" }},
+    { "s": { "type": "uri", "value": "https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/art_48" }	, "p": { "type": "uri", "value": "http://data.legilux.public.lu/resource/ontology/jolux#legalResourceSubdivisionIsPartOf" }},
+    { "s": { "type": "uri", "value": "https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/19861020" }	, "p": { "type": "uri", "value": "http://data.legilux.public.lu/resource/ontology/jolux#isMemberOf" }},
+    { "s": { "type": "uri", "value": "https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/19900701" }	, "p": { "type": "uri", "value": "http://data.legilux.public.lu/resource/ontology/jolux#isMemberOf" }},
+    { "s": { "type": "uri", "value": "https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/19920215" }	, "p": { "type": "uri", "value": "http://data.legilux.public.lu/resource/ontology/jolux#isMemberOf" }},
+    { "s": { "type": "uri", "value": "https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/19990101" }	, "p": { "type": "uri", "value": "http://data.legilux.public.lu/resource/ontology/jolux#isMemberOf" }},
+    { "s": { "type": "uri", "value": "https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/20010101" }	, "p": { "type": "uri", "value": "http://data.legilux.public.lu/resource/ontology/jolux#isMemberOf" }},
+    { "s": { "type": "uri", "value": "https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/20040101" }	, "p": { "type": "uri", "value": "http://data.legilux.public.lu/resource/ontology/jolux#isMemberOf" }},
+    { "s": { "type": "uri", "value": "https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/20070101" }	, "p": { "type": "uri", "value": "http://data.legilux.public.lu/resource/ontology/jolux#isMemberOf" }},
+    { "s": { "type": "uri", "value": "https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/20080901" }	, "p": { "type": "uri", "value": "http://data.legilux.public.lu/resource/ontology/jolux#isMemberOf" }},
+    { "s": { "type": "uri", "value": "https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/20110101" }	, "p": { "type": "uri", "value": "http://data.legilux.public.lu/resource/ontology/jolux#isMemberOf" }},
+    { "s": { "type": "uri", "value": "https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/19940101" }	, "p": { "type": "uri", "value": "http://data.legilux.public.lu/resource/ontology/jolux#isMemberOf" }},
+    { "s": { "type": "uri", "value": "https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/19960201" }	, "p": { "type": "uri", "value": "http://data.legilux.public.lu/resource/ontology/jolux#isMemberOf" }},
+    { "s": { "type": "uri", "value": "https://fedlex.data.admin.ch/eli/cc/1986/926_926_926/20140101" }	, "p": { "type": "uri", "value": "http://data.legilux.public.lu/resource/ontology/jolux#isMemberOf" }} ] } }

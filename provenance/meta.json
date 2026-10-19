@@ -1,0 +1,52 @@
+{
+  "cc": "ch",
+  "lang": "de",
+  "repo": "Komentar-CH-SR-221-213-2",
+  "repo_dir": "/Volumes/LaCie/open-commentary/ch/Komentar-CH-SR-221-213-2",
+  "title": "Kommentar: Bundesgesetz vom 4. Oktober 1985 über die landwirtschaftliche Pacht (LPG)",
+  "source_path": "/Volumes/LaCie/open-commentary/_work/ch/Komentar-CH-SR-221-213-2/sources/canonical.md",
+  "intro_file": "00-einleitung.md",
+  "intro_desc": "Grundlagen, Stand und Methode",
+  "labels": {
+    "text": "Wortlaut der Vorschrift",
+    "chapter": "Kommentarkapitel",
+    "notes": "Amtliche Anmerkung"
+  },
+  "chapters": [
+    {
+      "n": 1,
+      "slug": "kapitel-1",
+      "title": "1. Kapitel: Geltungsbereich"
+    },
+    {
+      "n": 2,
+      "slug": "kapitel-2",
+      "title": "2. Kapitel: Der landwirtschaftliche Pachtvertrag"
+    },
+    {
+      "n": 3,
+      "slug": "kapitel-3",
+      "title": "3. Kapitel: Parzellenweise Verpachtung"
+    },
+    {
+      "n": 4,
+      "slug": "kapitel-4",
+      "title": "4. Kapitel: Pachtzins"
+    },
+    {
+      "n": 5,
+      "slug": "kapitel-5",
+      "title": "5. Kapitel: Verfahren und Behörden"
+    },
+    {
+      "n": 6,
+      "slug": "kapitel-6",
+      "title": "6. Kapitel: …"
+    },
+    {
+      "n": 7,
+      "slug": "kapitel-7",
+      "title": "7. Kapitel: Schlussbestimmungen"
+    }
+  ]
+}
